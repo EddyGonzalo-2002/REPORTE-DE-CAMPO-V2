@@ -104,7 +104,7 @@ const LocationCard = ({ loc, filterFase }) => {
       {loc.Latitud && loc.Longitud && (
         <div style={{ padding: '0 1rem 1rem 1rem' }}>
           <a 
-            href={`https://www.google.com/maps/dir/?api=1&destination=${loc.Latitud},${loc.Longitud}`}
+            href={`https://maps.google.com/maps?daddr=${loc.Latitud},${loc.Longitud}+(${encodeURIComponent('Punto ' + getPuntoName(loc) + ' - ' + (loc['DESTINO ESP.'] || ''))})`}
             target="_blank"
             rel="noopener noreferrer"
             className="map-nav-btn"
