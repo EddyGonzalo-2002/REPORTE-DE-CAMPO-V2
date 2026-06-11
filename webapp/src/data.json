@@ -5724,5 +5724,5527 @@
         }
       ]
     }
+  },
+  "CUADRILLA-01-C": {
+    "SECTOR 1": {
+      "Instalaciones": [
+        {
+          "DESTINO ESP.": "ESTE MP-CUZCO",
+          "FRENTE": "1",
+          "CAMARA PTZ": "PTZ-81 CAMINO REAL",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "ALTAVOZ-81 CAMINO REAL",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "NO",
+          "MATERIAL BASE": "NO EXISTE",
+          "METODO DE ANCLAJE": "ABRAZADERAS PARA POSTE",
+          "MEDIO DE COMUNICACION": "NO EXISTE",
+          "ESTADO OPERATIVO": "NO",
+          "CUADRILLA - TIPO": "CUADRILLA-01-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-11",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-18",
+          "CUADRILLA - TIPO.1": "CUADRILLA-01-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ALTAVOCES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "10"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "10"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ABRAZADERAS POSTE CONCRETO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "CINTA BANDIT (M)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "EBILLAS (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "ESTE MP-CUZCO",
+          "FRENTE": "1",
+          "CAMARA PTZ": "PTZ-84 LOS INCAS",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "NO",
+          "MATERIAL BASE": "POSTE",
+          "METODO DE ANCLAJE": "ABRAZADERAS PARA POSTE",
+          "MEDIO DE COMUNICACION": "MEDIA CONVERTE (FIBRA - MEDIA CONVERTER - CAMARA)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-01-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-11",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-18",
+          "CUADRILLA - TIPO.1": "CUADRILLA-01-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ABRAZADERAS POSTE CONCRETO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "ESTE MP-CUZCO",
+          "FRENTE": "1",
+          "CAMARA PTZ": "PTZ-02 PLAZOLETA RECOLETA",
+          "CAMARA MULTISENSOR": "MULTI-02 PLAZOLETA RECOLETA",
+          "ALTAVOZ IP": "ALTAVOZ-02 PLAZOLETA RECOLETA",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "NO",
+          "MATERIAL BASE": "NO EXISTE",
+          "METODO DE ANCLAJE": "ABRAZADERAS PARA POSTE",
+          "MEDIO DE COMUNICACION": "NO EXISTE",
+          "ESTADO OPERATIVO": "NO",
+          "CUADRILLA - TIPO": "CUADRILLA-01-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-11",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-19",
+          "CUADRILLA - TIPO.1": "CUADRILLA-01-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "CAMARA MULTISENSOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ALTAVOCES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "15"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "15"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "6"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "ABRAZADERAS POSTE CONCRETO (PAR)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "CINTA BANDIT (M)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "EBILLAS (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "ESTE MP-CUZCO",
+          "FRENTE": "1",
+          "CAMARA PTZ": "PTZ-71 BARRIO PROFESIONAL",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "ALTAVOZ-71 BARRIO PROFESIONAL",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "NO",
+          "MATERIAL BASE": "POSTE",
+          "METODO DE ANCLAJE": "ABRAZADERAS PARA POSTE",
+          "MEDIO DE COMUNICACION": "MEDIA CONVERTE (FIBRA - MEDIA CONVERTER - CAMARA)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-01-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-11",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-19",
+          "CUADRILLA - TIPO.1": "CUADRILLA-01-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ALTAVOCES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "10"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "10"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ABRAZADERAS POSTE CONCRETO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "CINTA BANDIT (M)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "EBILLAS (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        }
+      ],
+      "Materiales": [
+        {
+          "Item": "CAMARA PTZ (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "CAMARA MULTISENSOR (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "ALTAVOCES (UND)",
+          "Cantidad": "3"
+        },
+        {
+          "Item": "SWITCH WI-TEK (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "INYECTORES POE (UND)",
+          "Cantidad": "5"
+        },
+        {
+          "Item": "PARARRAYOS ETHERNET (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "LLAVES TERMOMAGNETICAS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "LLAVES DIFERENCIALES (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "UPS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "TRANSFORMADOR (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SUPRESOR DE PICOS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SOPORTE DE UPS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "PRENSAESTOPA (UND)",
+          "Cantidad": "8"
+        },
+        {
+          "Item": "CORRUGADO (M)",
+          "Cantidad": "40"
+        },
+        {
+          "Item": "CABLE ETHERNET (M)",
+          "Cantidad": "40"
+        },
+        {
+          "Item": "CABLE ELECTRICO (M)",
+          "Cantidad": "16"
+        },
+        {
+          "Item": "CONECTOR RJ45 CAT 6A (UND)",
+          "Cantidad": "16"
+        },
+        {
+          "Item": "BRAZOS (UND)",
+          "Cantidad": "5"
+        },
+        {
+          "Item": "ABRAZADERAS POSTE CONCRETO (PAR)",
+          "Cantidad": "5"
+        },
+        {
+          "Item": "CINTA BANDIT (M)",
+          "Cantidad": "6"
+        },
+        {
+          "Item": "EBILLAS (UND)",
+          "Cantidad": "6"
+        },
+        {
+          "Item": "PATCHORE CAT 6A (UN)",
+          "Cantidad": "9"
+        }
+      ]
+    },
+    "SECTOR 2": {
+      "Instalaciones": [
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "2",
+          "CAMARA PTZ": "PTZ-08 CABRACANCHA TULLUMAYO",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "NO",
+          "MATERIAL BASE": "POSTE",
+          "METODO DE ANCLAJE": "ABRAZADERAS PARA POSTE",
+          "MEDIO DE COMUNICACION": "SWITCH(UP)",
+          "ESTADO OPERATIVO": "INACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-01-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-12",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-20",
+          "CUADRILLA - TIPO.1": "CUADRILLA-01-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ABRAZADERAS POSTE CONCRETO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "2",
+          "CAMARA PTZ": "PTZ-32 MICHIPATA SANTA ANA",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "NO",
+          "MATERIAL BASE": "NO EXISTE",
+          "METODO DE ANCLAJE": "ABRAZADERAS PARA POSTE",
+          "MEDIO DE COMUNICACION": "NO EXISTE",
+          "ESTADO OPERATIVO": "NO",
+          "CUADRILLA - TIPO": "CUADRILLA-01-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-12",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-20",
+          "CUADRILLA - TIPO.1": "CUADRILLA-01-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ABRAZADERAS POSTE CONCRETO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "2",
+          "CAMARA PTZ": "PTZ-33 ARCOPATA",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "ALTAVOZ-33 ARCOPATA",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "NO",
+          "MATERIAL BASE": "POSTE SEMAFORO",
+          "METODO DE ANCLAJE": "ABRAZADERAS PARA POSTE",
+          "MEDIO DE COMUNICACION": "MEDIA CONVERTE (FIBRA - MEDIA CONVERTER - CAMARA)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-01-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-12",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-22",
+          "CUADRILLA - TIPO.1": "CUADRILLA-01-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ALTAVOCES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "10"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "10"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ABRAZADERAS POSTE SEMAFORO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "CINTA BANDIT (M)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "EBILLAS (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "2",
+          "CAMARA PTZ": "PTZ-40 LA RAMPA",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "NO",
+          "MATERIAL BASE": "POSTE",
+          "METODO DE ANCLAJE": "ABRAZADERAS PARA POSTE",
+          "MEDIO DE COMUNICACION": "MEDIA CONVERTE (FIBRA - MEDIA CONVERTER - CAMARA)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-01-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-12",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-22",
+          "CUADRILLA - TIPO.1": "CUADRILLA-01-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ABRAZADERAS POSTE CONCRETO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        }
+      ],
+      "Materiales": [
+        {
+          "Item": "CAMARA PTZ (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "ALTAVOCES (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "SWITCH WI-TEK (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "INYECTORES POE (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "PARARRAYOS ETHERNET (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "LLAVES TERMOMAGNETICAS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "LLAVES DIFERENCIALES (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "UPS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "TRANSFORMADOR (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SUPRESOR DE PICOS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SOPORTE DE UPS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "PRENSAESTOPA (UND)",
+          "Cantidad": "8"
+        },
+        {
+          "Item": "CORRUGADO (M)",
+          "Cantidad": "25"
+        },
+        {
+          "Item": "CABLE ETHERNET (M)",
+          "Cantidad": "25"
+        },
+        {
+          "Item": "CABLE ELECTRICO (M)",
+          "Cantidad": "16"
+        },
+        {
+          "Item": "CONECTOR RJ45 CAT 6A (UND)",
+          "Cantidad": "10"
+        },
+        {
+          "Item": "BRAZOS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "ABRAZADERAS POSTE CONCRETO (PAR)",
+          "Cantidad": "3"
+        },
+        {
+          "Item": "ABRAZADERAS POSTE SEMAFORO (PAR)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "CINTA BANDIT (M)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "EBILLAS (UND)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "PATCHORE CAT 6A (UN)",
+          "Cantidad": "8"
+        }
+      ]
+    },
+    "SECTOR 3": {
+      "Instalaciones": [
+        {
+          "DESTINO ESP.": "CENTRO MP-CUZCO",
+          "FRENTE": "3",
+          "CAMARA PTZ": "PTZ-05 ROYAL QOSCO",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "NO",
+          "MATERIAL BASE": "ADOBE",
+          "METODO DE ANCLAJE": "BASE PLANA PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "DIRECTO A LA CAMARA (UTP)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-01-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-13",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-23",
+          "CUADRILLA - TIPO.1": "CUADRILLA-01-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BASES DE ANCLAJE PLANO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "CENTRO MP-CUZCO",
+          "FRENTE": "3",
+          "CAMARA PTZ": "PTZ-18 SUECIA",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "ALTAVOZ-18 SUECIA",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "NO",
+          "MATERIAL BASE": "CEMENTO",
+          "METODO DE ANCLAJE": "BASE ANGULAR PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "DIRECTO A LA CAMARA (UTP)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-01-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-13",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-23",
+          "CUADRILLA - TIPO.1": "CUADRILLA-01-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ALTAVOCES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "10"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "10"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BASES DE ANCLAJE ANGULAR (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "CINTA BANDIT (M)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "EBILLAS (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "CENTRO MP-CUZCO",
+          "FRENTE": "3",
+          "CAMARA PTZ": "PTZ-51 SANTA CATALINA",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "NO",
+          "MATERIAL BASE": "CEMENTO",
+          "METODO DE ANCLAJE": "BASE PLANA PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "MEDIA CONVERTE (FIBRA - MEDIA CONVERTER - CAMARA)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-01-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-13",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-24",
+          "CUADRILLA - TIPO.1": "CUADRILLA-01-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BASES DE ANCLAJE PLANO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "CENTRO MP-CUZCO",
+          "FRENTE": "3",
+          "CAMARA PTZ": "PTZ-54 COLEGIO SAN BORJA",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "NO",
+          "MATERIAL BASE": "CEMENTO",
+          "METODO DE ANCLAJE": "BASE PLANA PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "MEDIA CONVERTE (FIBRA - MEDIA CONVERTER - CAMARA)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-01-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-13",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-24",
+          "CUADRILLA - TIPO.1": "CUADRILLA-01-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BASES DE ANCLAJE PLANO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        }
+      ],
+      "Materiales": [
+        {
+          "Item": "CAMARA PTZ (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "ALTAVOCES (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "SWITCH WI-TEK (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "INYECTORES POE (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "PARARRAYOS ETHERNET (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "LLAVES TERMOMAGNETICAS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "LLAVES DIFERENCIALES (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "UPS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "TRANSFORMADOR (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SUPRESOR DE PICOS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SOPORTE DE UPS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "PRENSAESTOPA (UND)",
+          "Cantidad": "8"
+        },
+        {
+          "Item": "CORRUGADO (M)",
+          "Cantidad": "25"
+        },
+        {
+          "Item": "CABLE ETHERNET (M)",
+          "Cantidad": "25"
+        },
+        {
+          "Item": "CABLE ELECTRICO (M)",
+          "Cantidad": "16"
+        },
+        {
+          "Item": "CONECTOR RJ45 CAT 6A (UND)",
+          "Cantidad": "10"
+        },
+        {
+          "Item": "BRAZOS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "BASES DE ANCLAJE PLANO (PAR)",
+          "Cantidad": "3"
+        },
+        {
+          "Item": "BASES DE ANCLAJE ANGULAR (PAR)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "CINTA BANDIT (M)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "EBILLAS (UND)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "PATCHORE CAT 6A (UN)",
+          "Cantidad": "8"
+        }
+      ]
+    },
+    "SECTOR 4": {
+      "Instalaciones": [
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "4",
+          "CAMARA PTZ": "PTZ-25 CHOQUECHACA",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "SI",
+          "MATERIAL BASE": "ADOBE",
+          "METODO DE ANCLAJE": "BASE ANGULAR PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "DIRECTO A LA CAMARA (UTP)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-01-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-15",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-25",
+          "CUADRILLA - TIPO.1": "CUADRILLA-01-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BASES DE ANCLAJE ANGULAR (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "4",
+          "CAMARA PTZ": "PTZ-26 SAN BLAS 1",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "SI",
+          "MATERIAL BASE": "ADOBE",
+          "METODO DE ANCLAJE": "BASE ANGULAR PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "MEDIA CONVERTE (FIBRA - MEDIA CONVERTER - CAMARA)",
+          "ESTADO OPERATIVO": "INACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-01-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-15",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-25",
+          "CUADRILLA - TIPO.1": "CUADRILLA-01-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ABRAZADERAS POSTE CONCRETO (PAR)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "4",
+          "CAMARA PTZ": "PTZ-27 SAN BLAS 2",
+          "CAMARA MULTISENSOR": "MULTI-27 SAN BLAS 2",
+          "ALTAVOZ IP": "ALTAVOZ-27 SAN BLAS 2",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "SI",
+          "MATERIAL BASE": "POSTE",
+          "METODO DE ANCLAJE": "ABRAZADERAS PARA POSTE",
+          "MEDIO DE COMUNICACION": "POE (ANTENA - POE - CAMARA)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-01-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-15",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-26",
+          "CUADRILLA - TIPO.1": "CUADRILLA-01-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "CAMARA MULTISENSOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ALTAVOCES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "15"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "15"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "6"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "ABRAZADERAS POSTE CONCRETO (PAR)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "CINTA BANDIT (M)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "EBILLAS (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "4",
+          "CAMARA PTZ": "PTZ-53 MARURI",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "ALTAVOZ-53 MARURI",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "SI",
+          "MATERIAL BASE": "CEMENTO",
+          "METODO DE ANCLAJE": "BASE PLANA PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "MEDIA CONVERTE (FIBRA - MEDIA CONVERTER - CAMARA)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-01-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-15",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-26",
+          "CUADRILLA - TIPO.1": "CUADRILLA-01-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ALTAVOCES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "10"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "10"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BASES DE ANCLAJE PLANO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "CINTA BANDIT (M)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "EBILLAS (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        }
+      ],
+      "Materiales": [
+        {
+          "Item": "CAMARA PTZ (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "CAMARA MULTISENSOR (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "ALTAVOCES (UND)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "SWITCH WI-TEK (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "INYECTORES POE (UND)",
+          "Cantidad": "5"
+        },
+        {
+          "Item": "PARARRAYOS ETHERNET (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "LLAVES TERMOMAGNETICAS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "LLAVES DIFERENCIALES (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "UPS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "TRANSFORMADOR (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SUPRESOR DE PICOS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SOPORTE DE UPS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "PRENSAESTOPA (UND)",
+          "Cantidad": "8"
+        },
+        {
+          "Item": "CORRUGADO (M)",
+          "Cantidad": "35"
+        },
+        {
+          "Item": "CABLE ETHERNET (M)",
+          "Cantidad": "35"
+        },
+        {
+          "Item": "CABLE ELECTRICO (M)",
+          "Cantidad": "16"
+        },
+        {
+          "Item": "CONECTOR RJ45 CAT 6A (UND)",
+          "Cantidad": "14"
+        },
+        {
+          "Item": "BRAZOS (UND)",
+          "Cantidad": "5"
+        },
+        {
+          "Item": "BASES DE ANCLAJE PLANO (PAR)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "BASES DE ANCLAJE ANGULAR (PAR)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "ABRAZADERAS POSTE CONCRETO (PAR)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "CINTA BANDIT (M)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "EBILLAS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "PATCHORE CAT 6A (UN)",
+          "Cantidad": "9"
+        }
+      ]
+    },
+    "SECTOR 5": {
+      "Instalaciones": [
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "5",
+          "CAMARA PTZ": "PTZ-36 NUEVA ALTA 1",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "SI",
+          "MATERIAL BASE": "ADOBE",
+          "METODO DE ANCLAJE": "BASE PLANA PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "SWITCH(UP)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-01-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-16",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-27",
+          "CUADRILLA - TIPO.1": "CUADRILLA-01-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BASES DE ANCLAJE PLANO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "5",
+          "CAMARA PTZ": "PTZ-37 NUEVA ALTA 2",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "SI",
+          "MATERIAL BASE": "ADOBE",
+          "METODO DE ANCLAJE": "BASE PLANA PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "SWITCH(UP)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-01-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-16",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-27",
+          "CUADRILLA - TIPO.1": "CUADRILLA-01-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BASES DE ANCLAJE PLANO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "5",
+          "CAMARA PTZ": "PTZ-38 NUEVA BAJA",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "SI",
+          "MATERIAL BASE": "ADOBE",
+          "METODO DE ANCLAJE": "BASE ANGULAR PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "INACTIVO",
+          "ESTADO OPERATIVO": "INACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-01-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-16",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-30",
+          "CUADRILLA - TIPO.1": "CUADRILLA-01-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BASES DE ANCLAJE ANGULAR (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "5",
+          "CAMARA PTZ": "PTZ-39 VITOQUE",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "SI",
+          "MATERIAL BASE": "ADOBE",
+          "METODO DE ANCLAJE": "BASE ANGULAR PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "DIRECTO A LA CAMARA (UTP)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-01-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-16",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-30",
+          "CUADRILLA - TIPO.1": "CUADRILLA-01-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BASES DE ANCLAJE ANGULAR (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        }
+      ],
+      "Materiales": [
+        {
+          "Item": "CAMARA PTZ (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SWITCH WI-TEK (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "INYECTORES POE (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "PARARRAYOS ETHERNET (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "LLAVES TERMOMAGNETICAS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "LLAVES DIFERENCIALES (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "UPS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "TRANSFORMADOR (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SUPRESOR DE PICOS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SOPORTE DE UPS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "PRENSAESTOPA (UND)",
+          "Cantidad": "8"
+        },
+        {
+          "Item": "CORRUGADO (M)",
+          "Cantidad": "20"
+        },
+        {
+          "Item": "CABLE ETHERNET (M)",
+          "Cantidad": "20"
+        },
+        {
+          "Item": "CABLE ELECTRICO (M)",
+          "Cantidad": "16"
+        },
+        {
+          "Item": "CONECTOR RJ45 CAT 6A (UND)",
+          "Cantidad": "8"
+        },
+        {
+          "Item": "BRAZOS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "BASES DE ANCLAJE PLANO (PAR)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "BASES DE ANCLAJE ANGULAR (PAR)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "PATCHORE CAT 6A (UN)",
+          "Cantidad": "8"
+        }
+      ]
+    },
+    "SECTOR 6": {
+      "Instalaciones": [
+        {
+          "DESTINO ESP.": "CENTRO MP-CUZCO",
+          "FRENTE": "6",
+          "CAMARA PTZ": "PTZ-50 LORETO",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "SI",
+          "MATERIAL BASE": "CEMENTO",
+          "METODO DE ANCLAJE": "BASE ANGULAR PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "POE (ANTENA - POE - CAMARA)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-01-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-17",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-07-01",
+          "CUADRILLA - TIPO.1": "CUADRILLA-01-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BASES DE ANCLAJE ANGULAR (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        }
+      ],
+      "Materiales": [
+        {
+          "Item": "CAMARA PTZ (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "SWITCH WI-TEK (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "INYECTORES POE (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "PARARRAYOS ETHERNET (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "LLAVES TERMOMAGNETICAS (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "LLAVES DIFERENCIALES (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "UPS (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "TRANSFORMADOR (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "SUPRESOR DE PICOS (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "SOPORTE DE UPS (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "PRENSAESTOPA (UND)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "CORRUGADO (M)",
+          "Cantidad": "5"
+        },
+        {
+          "Item": "CABLE ETHERNET (M)",
+          "Cantidad": "5"
+        },
+        {
+          "Item": "CABLE ELECTRICO (M)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "CONECTOR RJ45 CAT 6A (UND)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "BRAZOS (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "BASES DE ANCLAJE ANGULAR (PAR)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "PATCHORE CAT 6A (UN)",
+          "Cantidad": "2"
+        }
+      ]
+    }
+  },
+  "CUADRILLA-02-C": {
+    "SECTOR 1": {
+      "Instalaciones": [
+        {
+          "DESTINO ESP.": "ESTE MP-CUZCO",
+          "FRENTE": "1",
+          "CAMARA PTZ": "PTZ-73 RECOLETA",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "NO",
+          "MATERIAL BASE": "POSTE SEMAFORO",
+          "METODO DE ANCLAJE": "ABRAZADERAS PARA POSTE",
+          "MEDIO DE COMUNICACION": "MEDIA CONVERTE (FIBRA - MEDIA CONVERTER - CAMARA)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-02-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-11",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-18",
+          "CUADRILLA - TIPO.1": "CUADRILLA-02-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ABRAZADERAS POSTE SEMAFORO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "ESTE MP-CUZCO",
+          "FRENTE": "1",
+          "CAMARA PTZ": "PTZ-09 PASAJE GRECE 1",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "NO",
+          "MATERIAL BASE": "CEMENTO",
+          "METODO DE ANCLAJE": "BASE ANGULAR PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "DIRECTO A LA CAMARA (UTP)",
+          "ESTADO OPERATIVO": "INACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-02-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-11",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-18",
+          "CUADRILLA - TIPO.1": "CUADRILLA-02-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BASES DE ANCLAJE ANGULAR (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "1",
+          "CAMARA PTZ": "PTZ-61 MATARA AYACUCHO",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "NO",
+          "MATERIAL BASE": "POSTE SEMAFORO",
+          "METODO DE ANCLAJE": "ABRAZADERAS PARA POSTE",
+          "MEDIO DE COMUNICACION": "DIRECTO A LA CAMARA (UTP)",
+          "ESTADO OPERATIVO": "INACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-02-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-11",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-19",
+          "CUADRILLA - TIPO.1": "CUADRILLA-02-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ABRAZADERAS POSTE SEMAFORO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "CENTRO MP-CUZCO",
+          "FRENTE": "1",
+          "CAMARA PTZ": "PTZ-06 CABRACANCHA 1",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "NO",
+          "MATERIAL BASE": "ADOBE",
+          "METODO DE ANCLAJE": "BASE ANGULAR PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "DIRECTO A LA CAMARA (UTP)",
+          "ESTADO OPERATIVO": "INACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-02-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-11",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-19",
+          "CUADRILLA - TIPO.1": "CUADRILLA-02-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BASES DE ANCLAJE ANGULAR (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        }
+      ],
+      "Materiales": [
+        {
+          "Item": "CAMARA PTZ (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SWITCH WI-TEK (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "INYECTORES POE (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "PARARRAYOS ETHERNET (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "LLAVES TERMOMAGNETICAS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "LLAVES DIFERENCIALES (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "UPS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "TRANSFORMADOR (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SUPRESOR DE PICOS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SOPORTE DE UPS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "PRENSAESTOPA (UND)",
+          "Cantidad": "8"
+        },
+        {
+          "Item": "CORRUGADO (M)",
+          "Cantidad": "20"
+        },
+        {
+          "Item": "CABLE ETHERNET (M)",
+          "Cantidad": "20"
+        },
+        {
+          "Item": "CABLE ELECTRICO (M)",
+          "Cantidad": "16"
+        },
+        {
+          "Item": "CONECTOR RJ45 CAT 6A (UND)",
+          "Cantidad": "8"
+        },
+        {
+          "Item": "BRAZOS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "BASES DE ANCLAJE ANGULAR (PAR)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "ABRAZADERAS POSTE SEMAFORO (PAR)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "PATCHORE CAT 6A (UN)",
+          "Cantidad": "8"
+        }
+      ]
+    },
+    "SECTOR 2": {
+      "Instalaciones": [
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "2",
+          "CAMARA PTZ": "PTZ-82 TICA TICA 1",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "NO",
+          "MATERIAL BASE": "POSTE SEMAFORO",
+          "METODO DE ANCLAJE": "ABRAZADERAS PARA POSTE",
+          "MEDIO DE COMUNICACION": "MEDIA CONVERTE (FIBRA - MEDIA CONVERTER - CAMARA)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-02-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-12",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-20",
+          "CUADRILLA - TIPO.1": "CUADRILLA-02-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ABRAZADERAS POSTE SEMAFORO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "2",
+          "CAMARA PTZ": "PTZ-20 PLATEROS",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "NO",
+          "MATERIAL BASE": "POSTE",
+          "METODO DE ANCLAJE": "ABRAZADERAS PARA POSTE",
+          "MEDIO DE COMUNICACION": "SWITCH(UP)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-02-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-12",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-20",
+          "CUADRILLA - TIPO.1": "CUADRILLA-02-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ABRAZADERAS POSTE CONCRETO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "2",
+          "CAMARA PTZ": "PTZ-31 SANTA ANA",
+          "CAMARA MULTISENSOR": "MULTI-31 SANTA ANA",
+          "ALTAVOZ IP": "ALTAVOZ-31 SANTA ANA",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "NO",
+          "MATERIAL BASE": "POSTE",
+          "METODO DE ANCLAJE": "ABRAZADERAS PARA POSTE",
+          "MEDIO DE COMUNICACION": "MEDIA CONVERTE (FIBRA - MEDIA CONVERTER - CAMARA)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-02-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-12",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-22",
+          "CUADRILLA - TIPO.1": "CUADRILLA-02-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "CAMARA MULTISENSOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ALTAVOCES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "15"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "15"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "6"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "ABRAZADERAS POSTE CONCRETO (PAR)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "CINTA BANDIT (M)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "EBILLAS (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "2",
+          "CAMARA PTZ": "PTZ-55 ESPADEROS",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "NO",
+          "MATERIAL BASE": "CEMENTO",
+          "METODO DE ANCLAJE": "BASE ANGULAR PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "POE (ANTENA - POE - CAMARA)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-02-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-12",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-22",
+          "CUADRILLA - TIPO.1": "CUADRILLA-02-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BASES DE ANCLAJE ANGULAR (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        }
+      ],
+      "Materiales": [
+        {
+          "Item": "CAMARA PTZ (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "CAMARA MULTISENSOR (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "ALTAVOCES (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "SWITCH WI-TEK (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "INYECTORES POE (UND)",
+          "Cantidad": "5"
+        },
+        {
+          "Item": "PARARRAYOS ETHERNET (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "LLAVES TERMOMAGNETICAS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "LLAVES DIFERENCIALES (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "UPS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "TRANSFORMADOR (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SUPRESOR DE PICOS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SOPORTE DE UPS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "PRENSAESTOPA (UND)",
+          "Cantidad": "8"
+        },
+        {
+          "Item": "CORRUGADO (M)",
+          "Cantidad": "30"
+        },
+        {
+          "Item": "CABLE ETHERNET (M)",
+          "Cantidad": "30"
+        },
+        {
+          "Item": "CABLE ELECTRICO (M)",
+          "Cantidad": "16"
+        },
+        {
+          "Item": "CONECTOR RJ45 CAT 6A (UND)",
+          "Cantidad": "12"
+        },
+        {
+          "Item": "BRAZOS (UND)",
+          "Cantidad": "5"
+        },
+        {
+          "Item": "BASES DE ANCLAJE ANGULAR (PAR)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "ABRAZADERAS POSTE CONCRETO (PAR)",
+          "Cantidad": "3"
+        },
+        {
+          "Item": "ABRAZADERAS POSTE SEMAFORO (PAR)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "CINTA BANDIT (M)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "EBILLAS (UND)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "PATCHORE CAT 6A (UN)",
+          "Cantidad": "9"
+        }
+      ]
+    },
+    "SECTOR 3": {
+      "Instalaciones": [
+        {
+          "DESTINO ESP.": "CENTRO MP-CUZCO",
+          "FRENTE": "3",
+          "CAMARA PTZ": "PTZ-07 CABRACANCHA 2",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "SI",
+          "MATERIAL BASE": "ADOBE",
+          "METODO DE ANCLAJE": "BASE PLANA PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "SWITCH(UP)",
+          "ESTADO OPERATIVO": "INACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-02-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-13",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-23",
+          "CUADRILLA - TIPO.1": "CUADRILLA-02-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BASES DE ANCLAJE PLANO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "CENTRO MP-CUZCO",
+          "FRENTE": "3",
+          "CAMARA PTZ": "PTZ-23 TRIUNFO 1",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "ALTAVOZ-23 TRIUNFO 1",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "SI",
+          "MATERIAL BASE": "ADOBE",
+          "METODO DE ANCLAJE": "BASE ANGULAR PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "SWITCH(UP)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-02-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-13",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-23",
+          "CUADRILLA - TIPO.1": "CUADRILLA-02-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ALTAVOCES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "10"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "10"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BASES DE ANCLAJE ANGULAR (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "CINTA BANDIT (M)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "EBILLAS (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "CENTRO MP-CUZCO",
+          "FRENTE": "3",
+          "CAMARA PTZ": "PTZ-24 TRIUNFO 2",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "SI",
+          "MATERIAL BASE": "ADOBE",
+          "METODO DE ANCLAJE": "BASE ANGULAR PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "SWITCH(UP)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-02-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-13",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-24",
+          "CUADRILLA - TIPO.1": "CUADRILLA-02-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BASES DE ANCLAJE ANGULAR (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "CENTRO MP-CUZCO",
+          "FRENTE": "3",
+          "CAMARA PTZ": "PTZ-30 SAN CRISTOBAL",
+          "CAMARA MULTISENSOR": "MULTI-30 SAN CRISTOBAL",
+          "ALTAVOZ IP": "ALTAVOZ-30 SAN CRISTOBAL",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "NO",
+          "MATERIAL BASE": "POSTE",
+          "METODO DE ANCLAJE": "ABRAZADERAS PARA POSTE",
+          "MEDIO DE COMUNICACION": "MEDIA CONVERTE (FIBRA - MEDIA CONVERTER - CAMARA)",
+          "ESTADO OPERATIVO": "INACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-02-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-13",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-24",
+          "CUADRILLA - TIPO.1": "CUADRILLA-02-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "CAMARA MULTISENSOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ALTAVOCES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "15"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "15"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "6"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "ABRAZADERAS POSTE CONCRETO (PAR)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "CINTA BANDIT (M)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "EBILLAS (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        }
+      ],
+      "Materiales": [
+        {
+          "Item": "CAMARA PTZ (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "CAMARA MULTISENSOR (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "ALTAVOCES (UND)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "SWITCH WI-TEK (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "INYECTORES POE (UND)",
+          "Cantidad": "5"
+        },
+        {
+          "Item": "PARARRAYOS ETHERNET (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "LLAVES TERMOMAGNETICAS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "LLAVES DIFERENCIALES (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "UPS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "TRANSFORMADOR (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SUPRESOR DE PICOS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SOPORTE DE UPS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "PRENSAESTOPA (UND)",
+          "Cantidad": "8"
+        },
+        {
+          "Item": "CORRUGADO (M)",
+          "Cantidad": "35"
+        },
+        {
+          "Item": "CABLE ETHERNET (M)",
+          "Cantidad": "35"
+        },
+        {
+          "Item": "CABLE ELECTRICO (M)",
+          "Cantidad": "16"
+        },
+        {
+          "Item": "CONECTOR RJ45 CAT 6A (UND)",
+          "Cantidad": "14"
+        },
+        {
+          "Item": "BRAZOS (UND)",
+          "Cantidad": "5"
+        },
+        {
+          "Item": "BASES DE ANCLAJE PLANO (PAR)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "BASES DE ANCLAJE ANGULAR (PAR)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "ABRAZADERAS POSTE CONCRETO (PAR)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "CINTA BANDIT (M)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "EBILLAS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "PATCHORE CAT 6A (UN)",
+          "Cantidad": "9"
+        }
+      ]
+    },
+    "SECTOR 4": {
+      "Instalaciones": [
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "4",
+          "CAMARA PTZ": "PTZ-56 PRIEDRA DE LOS 12 ANGULOS",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "SI",
+          "MATERIAL BASE": "ADOBE",
+          "METODO DE ANCLAJE": "BASE PLANA PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "SWITCH(UP)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-02-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-15",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-25",
+          "CUADRILLA - TIPO.1": "CUADRILLA-02-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BASES DE ANCLAJE PLANO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "4",
+          "CAMARA PTZ": "PTZ-16 REGOCIJO",
+          "CAMARA MULTISENSOR": "MULTI-16 REGOCIJO",
+          "ALTAVOZ IP": "ALTAVOZ-16 REGOCIJO",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "SI",
+          "MATERIAL BASE": "CEMENTO",
+          "METODO DE ANCLAJE": "BASE ANGULAR PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "MEDIA CONVERTE (FIBRA - MEDIA CONVERTER - CAMARA)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-02-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-15",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-25",
+          "CUADRILLA - TIPO.1": "CUADRILLA-02-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "CAMARA MULTISENSOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ALTAVOCES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "15"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "15"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "6"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BASES DE ANCLAJE ANGULAR (PAR)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "CINTA BANDIT (M)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "EBILLAS (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "4",
+          "CAMARA PTZ": "PTZ-17 PORTAL ESPINAR",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "SI",
+          "MATERIAL BASE": "CEMENTO",
+          "METODO DE ANCLAJE": "BASE ANGULAR PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "DIRECTO A LA CAMARA (UTP)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-02-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-15",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-26",
+          "CUADRILLA - TIPO.1": "CUADRILLA-02-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BASES DE ANCLAJE ANGULAR (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "4",
+          "CAMARA PTZ": "PTZ-21 PARQUE DE LA MADRE",
+          "CAMARA MULTISENSOR": "MULTI-21 PARQUE DE LA MADRE",
+          "ALTAVOZ IP": "ALTAVOZ-21 PARQUE DE LA MADRE",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "SI",
+          "MATERIAL BASE": "CEMENTO",
+          "METODO DE ANCLAJE": "BASE PLANA PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "DIRECTO A LA CAMARA (UTP)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-02-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-15",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-26",
+          "CUADRILLA - TIPO.1": "CUADRILLA-02-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "CAMARA MULTISENSOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ALTAVOCES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "15"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "15"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "6"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BASES DE ANCLAJE PLANO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ABRAZADERAS POSTE CONCRETO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "CINTA BANDIT (M)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "EBILLAS (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        }
+      ],
+      "Materiales": [
+        {
+          "Item": "CAMARA PTZ (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "CAMARA MULTISENSOR (UND)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "ALTAVOCES (UND)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "SWITCH WI-TEK (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "INYECTORES POE (UND)",
+          "Cantidad": "6"
+        },
+        {
+          "Item": "PARARRAYOS ETHERNET (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "LLAVES TERMOMAGNETICAS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "LLAVES DIFERENCIALES (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "UPS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "TRANSFORMADOR (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SUPRESOR DE PICOS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SOPORTE DE UPS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "PRENSAESTOPA (UND)",
+          "Cantidad": "8"
+        },
+        {
+          "Item": "CORRUGADO (M)",
+          "Cantidad": "40"
+        },
+        {
+          "Item": "CABLE ETHERNET (M)",
+          "Cantidad": "40"
+        },
+        {
+          "Item": "CABLE ELECTRICO (M)",
+          "Cantidad": "16"
+        },
+        {
+          "Item": "CONECTOR RJ45 CAT 6A (UND)",
+          "Cantidad": "16"
+        },
+        {
+          "Item": "BRAZOS (UND)",
+          "Cantidad": "6"
+        },
+        {
+          "Item": "BASES DE ANCLAJE PLANO (PAR)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "BASES DE ANCLAJE ANGULAR (PAR)",
+          "Cantidad": "3"
+        },
+        {
+          "Item": "ABRAZADERAS POSTE CONCRETO (PAR)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "CINTA BANDIT (M)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "EBILLAS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "PATCHORE CAT 6A (UN)",
+          "Cantidad": "10"
+        }
+      ]
+    },
+    "SECTOR 5": {
+      "Instalaciones": [
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "5",
+          "CAMARA PTZ": "PTZ-14 PLAZA ATRIO",
+          "CAMARA MULTISENSOR": "MULTI-14 PLAZA ATRIO",
+          "ALTAVOZ IP": "ALTAVOZ-14 PLAZA ATRIO",
+          "BOTON DE PANICO": "BOTON-14 PLAZA ATRIO",
+          "DISPONIBILIDAD DE ESPACIO": "SI",
+          "MATERIAL BASE": "POSTE SEMAFORO",
+          "METODO DE ANCLAJE": "ABRAZADERAS PARA POSTE",
+          "MEDIO DE COMUNICACION": "MEDIA CONVERTE (FIBRA - MEDIA CONVERTER - CAMARA)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-02-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-16",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-27",
+          "CUADRILLA - TIPO.1": "CUADRILLA-02-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "CAMARA MULTISENSOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ALTAVOCES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BOTONES DE PANICO (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "20"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "20"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "8"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "ABRAZADERAS POSTE SEMAFORO (PAR)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "CINTA BANDIT (M)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "EBILLAS (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "5",
+          "CAMARA PTZ": "PTZ-15 PARANINFO",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "ALTAVOZ-15 PARANINFO",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "SI",
+          "MATERIAL BASE": "CEMENTO",
+          "METODO DE ANCLAJE": "BASE PLANA PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "SWITCH(UP)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-02-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-16",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-27",
+          "CUADRILLA - TIPO.1": "CUADRILLA-02-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "ALTAVOCES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "10"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "10"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BASES DE ANCLAJE PLANO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "CINTA BANDIT (M)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "EBILLAS (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "5",
+          "CAMARA PTZ": "PTZ-19 TECSECOCHA",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "SI",
+          "MATERIAL BASE": "ADOBE",
+          "METODO DE ANCLAJE": "BASE PLANA PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "NO EXISTE",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-02-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-16",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-30",
+          "CUADRILLA - TIPO.1": "CUADRILLA-02-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BASES DE ANCLAJE PLANO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        },
+        {
+          "DESTINO ESP.": "OESTE MP-CUZCO",
+          "FRENTE": "5",
+          "CAMARA PTZ": "PTZ-49 PARANINFO FIJA",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "SI",
+          "MATERIAL BASE": "CEMENTO",
+          "METODO DE ANCLAJE": "BASE ANGULAR PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "SWITCH(UP)",
+          "ESTADO OPERATIVO": "INACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-02-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-16",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-06-30",
+          "CUADRILLA - TIPO.1": "CUADRILLA-02-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BASES DE ANCLAJE ANGULAR (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        }
+      ],
+      "Materiales": [
+        {
+          "Item": "CAMARA PTZ (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "CAMARA MULTISENSOR (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "ALTAVOCES (UND)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "BOTONES DE PANICO (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "SWITCH WI-TEK (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "INYECTORES POE (UND)",
+          "Cantidad": "5"
+        },
+        {
+          "Item": "PARARRAYOS ETHERNET (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "LLAVES TERMOMAGNETICAS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "LLAVES DIFERENCIALES (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "UPS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "TRANSFORMADOR (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SUPRESOR DE PICOS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SOPORTE DE UPS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "PRENSAESTOPA (UND)",
+          "Cantidad": "8"
+        },
+        {
+          "Item": "CORRUGADO (M)",
+          "Cantidad": "40"
+        },
+        {
+          "Item": "CABLE ETHERNET (M)",
+          "Cantidad": "40"
+        },
+        {
+          "Item": "CABLE ELECTRICO (M)",
+          "Cantidad": "16"
+        },
+        {
+          "Item": "CONECTOR RJ45 CAT 6A (UND)",
+          "Cantidad": "16"
+        },
+        {
+          "Item": "BRAZOS (UND)",
+          "Cantidad": "5"
+        },
+        {
+          "Item": "BASES DE ANCLAJE PLANO (PAR)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "BASES DE ANCLAJE ANGULAR (PAR)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "ABRAZADERAS POSTE SEMAFORO (PAR)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "CINTA BANDIT (M)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "EBILLAS (UND)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "PATCHORE CAT 6A (UN)",
+          "Cantidad": "9"
+        }
+      ]
+    },
+    "SECTOR 6": {
+      "Instalaciones": [
+        {
+          "DESTINO ESP.": "CENTRO MP-CUZCO",
+          "FRENTE": "6",
+          "CAMARA PTZ": "PTZ-52 SANTA CATALINA 2",
+          "CAMARA MULTISENSOR": "",
+          "ALTAVOZ IP": "",
+          "BOTON DE PANICO": "",
+          "DISPONIBILIDAD DE ESPACIO": "SI",
+          "MATERIAL BASE": "CEMENTO",
+          "METODO DE ANCLAJE": "BASE PLANA PARA VIVIENDA",
+          "MEDIO DE COMUNICACION": "MEDIA CONVERTE (FIBRA - MEDIA CONVERTER - CAMARA)",
+          "ESTADO OPERATIVO": "ACTIVO",
+          "CUADRILLA - TIPO": "CUADRILLA-02-C",
+          "FECHAS DE INSTALACION GABINETES (ADECUACION O INSTALACION NUEVA)": "2026-06-17",
+          "FECHAS DE INSTALACION CAMARAS PTZ Y MULTISENSOR , MEGAFONOS IP , BOTON DE PANICO": "2026-07-01",
+          "CUADRILLA - TIPO.1": "CUADRILLA-02-C",
+          "MaterialesPunto": [
+            {
+              "Item": "CAMARA PTZ (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "INYECTORES POE (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PARARRAYOS ETHERNET (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES TERMOMAGNETICAS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "LLAVES DIFERENCIALES (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "TRANSFORMADOR (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SUPRESOR DE PICOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE UPS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PRENSAESTOPA (UND)",
+              "Cantidad": "3"
+            },
+            {
+              "Item": "CORRUGADO (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ETHERNET (M)",
+              "Cantidad": "5"
+            },
+            {
+              "Item": "CABLE ELECTRICO (M)",
+              "Cantidad": "4"
+            },
+            {
+              "Item": "CONECTOR RJ45 CAT 6A (UND)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "BRAZOS (UND)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "BASES DE ANCLAJE PLANO (PAR)",
+              "Cantidad": "1"
+            },
+            {
+              "Item": "PATCHORE CAT 6A (UN)",
+              "Cantidad": "2"
+            },
+            {
+              "Item": "PILOTO LED VERDE Y ROJO (PAR)",
+              "Cantidad": "1"
+            }
+          ]
+        }
+      ],
+      "Materiales": [
+        {
+          "Item": "CAMARA PTZ (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "SWITCH WI-TEK (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "FUENTE DE PODER DEL SWITCH WI-TEK (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "INYECTORES POE (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "PARARRAYOS ETHERNET (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "LLAVES TERMOMAGNETICAS (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "LLAVES DIFERENCIALES (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "UPS (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "TRANSFORMADOR (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "SUPRESOR DE PICOS (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "SOPORTE DE UPS (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "SOPORTE DE TRANSFORMADOR  (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "PRENSAESTOPA (UND)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "CORRUGADO (M)",
+          "Cantidad": "5"
+        },
+        {
+          "Item": "CABLE ETHERNET (M)",
+          "Cantidad": "5"
+        },
+        {
+          "Item": "CABLE ELECTRICO (M)",
+          "Cantidad": "4"
+        },
+        {
+          "Item": "CONECTOR RJ45 CAT 6A (UND)",
+          "Cantidad": "2"
+        },
+        {
+          "Item": "BRAZOS (UND)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "BASES DE ANCLAJE PLANO (PAR)",
+          "Cantidad": "1"
+        },
+        {
+          "Item": "PATCHORE CAT 6A (UN)",
+          "Cantidad": "2"
+        }
+      ]
+    }
   }
 }

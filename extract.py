@@ -2,13 +2,10 @@ import pandas as pd
 import json
 
 sheets = ['SECTOR 1', 'SECTOR 2', 'SECTOR 3', 'SECTOR 4', 'SECTOR 5', 'SECTOR 6']
-target_cuadrillas = ['CUADRILLA-03-L', 'CUADRILLA-04-L']
+target_cuadrillas = ['CUADRILLA-03-L', 'CUADRILLA-04-L', 'CUADRILLA-01-C', 'CUADRILLA-02-C']
 url = 'https://docs.google.com/spreadsheets/d/1enauD12DiGlj5GM_P-_JF3HdpoZ-m92xzBRdjFEfuak/export?format=xlsx'
 
-output_data = {
-    'CUADRILLA-03-L': {},
-    'CUADRILLA-04-L': {}
-}
+output_data = {c: {} for c in target_cuadrillas}
 
 def get_punto_name(loc):
     raw = loc.get('CAMARA PTZ', '')
